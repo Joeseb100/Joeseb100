@@ -8,4 +8,6 @@
 - 🌐 GDG AJCE | IEEE EdSoc Intern | 
 - 🎥 Passion for cinematics meets precision in code
 
+-  Precision. Purpose. Presence.
+
 📫 Reach out: [LinkedIn](https://linkedin.com/in/jophitsebastian) |
