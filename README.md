@@ -1,6 +1,6 @@
 # Hey, I'm Jophit 👋
 
-### ECE Undergrad | AI & IoT Developer | Embedded Systems Enthusiast
+### ECE Undergrad | AI & IoT Developer x Embedded Systems Enthusiast
 
 - 🔬 Working on intelligent agents, ML-based tools, and real-time emotion-aware systems  
 - 🧠 Exploring Brain-Computer Interfaces & context-aware computing  
