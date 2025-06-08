@@ -6,7 +6,6 @@
 - 🧠 Exploring Brain-Computer Interfaces & context-aware computing  
 - 🛠️ Skilled with Arduino, ESP32,  and I2C/SPI-based modules  
 - 🌐 GDG AJCE | IEEE EdSoc Intern | 
-- 🎥 Passion for cinematics meets precision in code
 -  Precision. Purpose. Presence.    
 
 📫 Reach out: [LinkedIn](https://linkedin.com/in/jophitsebastian) |
