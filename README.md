@@ -2,7 +2,7 @@
 
 ### ECE Undergrad | AI & IoT Developer x Embedded Systems Enthusiast
 
-- 🔬 Working on intelligent agents, ML-based tools, and real-time emotion-aware systems  
+- 🔬 Working on intelligent agents, ML-based tools, and real-time emotion-aware systems 
 - 🧠 Exploring Brain-Computer Interfaces & context-aware computing  
 - 🛠️ Skilled with Arduino, ESP32,  and I2C/SPI-based modules  
 - 🌐 AI Intern @Agrowtein Labs | Blankspace Core | IEEE EdSoc Intern | 
