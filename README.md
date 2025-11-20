@@ -5,7 +5,7 @@
 - 🔬 Working on intelligent agents, ML-based tools, and real-time emotion-aware systems 
 - 🧠 Exploring Brain-Computer Interfaces & context-aware computing  
 - 🛠️ Skilled with Arduino, ESP32,  and I2C/SPI-based modules  
-- 🌐 AI Intern @Agrowtein Labs | Blankspace Core | IEEE EdSoc Intern | 
+- 🌐 AI Intern @Agrowtein Labs | GDG | Blankspace Core | IEEE EdSoc Intern | 
 -  Precision. Purpose. Presence.    
 
 📫 Reach out: [LinkedIn](https://linkedin.com/in/jophitsebastian) |
